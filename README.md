@@ -6,5 +6,6 @@ Make sure replace the API key with your OPENAI API Key.
 ```bash
 go run main.go
 ```
+gitbook URL for Web socket : - https://aadesh-kumar.gitbook.io/web-socket/
 
 <img width="1018" height="968" alt="image" src="https://github.com/user-attachments/assets/c95d7dc9-98dc-4cab-a75c-89f02c92ad31" />
